@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<x:hibernate-configuration xmlns:x="urn:nhibernate-configuration-2.2">
+  <x:session-factory>
+    <x:property name="connection.driver_class">NHibernate.Driver.SqlClientDriver</x:property>
+    <x:property name="connection.connection_string">Password=s@Qwerty;Persist Security Info=True;User ID=sa;Initial Catalog=ECM.ServiceBusForDebug;Data Source=bus.ecm.local;</x:property>
+    <x:property name="adonet.batch_size">100</x:property>
+    <x:property name="show_sql">true</x:property>
+    <x:property name="dialect">NHibernate.Dialect.MsSql2008Dialect</x:property>
+    <x:property name="max_fetch_depth">1</x:property>
+    <x:property name="command_timeout">60</x:property>
+    <x:property name="connection.provider">NHibernate.Connection.DriverConnectionProvider</x:property>
+    <x:property name="query.substitutions">true 1, false 0, yes 1, no 0</x:property>
+    <x:property name="current_session_context_class">managed_web</x:property>
+  </x:session-factory>
+</x:hibernate-configuration>

@@ -1,0 +1,17 @@
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\App_Data\hibernate.cfg.xml
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\RabbitMQ.Consumer.exe.config
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\RabbitMQ.Consumer.exe
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\RabbitMQ.Consumer.pdb
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\RabbitMQ.Objects.dll
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\RabbitMQ.Objects.pdb
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\Autofac.xml
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\Autofac.Integration.Wcf.xml
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\GreenPipes.xml
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\MassTransit.xml
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\MassTransit.RabbitMqTransport.xml
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\Newtonsoft.Json.xml
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\RabbitMQ.Client.xml
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\bin\Debug\Topshelf.xml
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\obj\Debug\RabbitMQ.Consumer.csprojResolveAssemblyReference.cache
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\obj\Debug\RabbitMQ.Consumer.exe
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Consumer\obj\Debug\RabbitMQ.Consumer.pdb

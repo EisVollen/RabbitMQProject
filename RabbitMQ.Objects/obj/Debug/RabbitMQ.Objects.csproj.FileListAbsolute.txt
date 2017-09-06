@@ -1,0 +1,7 @@
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Objects\bin\Debug\RabbitMQ.Objects.dll
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Objects\bin\Debug\RabbitMQ.Objects.pdb
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Objects\bin\Debug\MassTransit.xml
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Objects\bin\Debug\Newtonsoft.Json.xml
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Objects\obj\Debug\RabbitMQ.Objects.csprojResolveAssemblyReference.cache
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Objects\obj\Debug\RabbitMQ.Objects.dll
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Objects\obj\Debug\RabbitMQ.Objects.pdb
