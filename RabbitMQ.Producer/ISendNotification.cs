@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Threading.Tasks;
 
-namespace NotificationWithUsingRabbitMQ
+namespace RabbitMQ.Producer
 {
     public interface ISendNotification
     {

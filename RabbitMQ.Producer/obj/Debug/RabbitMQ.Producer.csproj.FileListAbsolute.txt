@@ -1,5 +1,3 @@
-F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\bin\Debug\NotificationWithUsingRabbitMQ.dll
-F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\bin\Debug\NotificationWithUsingRabbitMQ.pdb
 F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\bin\Debug\RabbitMQ.Objects.dll
 F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\bin\Debug\RabbitMQ.Objects.pdb
 F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\bin\Debug\MassTransit.xml
@@ -7,5 +5,7 @@ F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\bin\Debug\MassTransit.RabbitMqTranspor
 F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\bin\Debug\Newtonsoft.Json.xml
 F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\bin\Debug\RabbitMQ.Client.xml
 F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\obj\Debug\RabbitMQ.Producer.csprojResolveAssemblyReference.cache
-F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\obj\Debug\NotificationWithUsingRabbitMQ.dll
-F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\obj\Debug\NotificationWithUsingRabbitMQ.pdb
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\bin\Debug\RabbitMQ.Producer.pdb
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\obj\Debug\RabbitMQ.Producer.pdb
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\bin\Debug\RabbitMQ.Producer.exe
+F:\GH\RabbitMQ\RabbitMQ\RabbitMQ.Producer\obj\Debug\RabbitMQ.Producer.exe
